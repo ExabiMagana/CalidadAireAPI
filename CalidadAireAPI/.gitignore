@@ -1,0 +1,15 @@
+# Configuración local
+/appsettings.Development.json
+
+# Archivos de compilación
+bin/
+obj/
+
+# Configuración de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
